@@ -118,20 +118,22 @@ Seeking a **Software / Cloud / AI Engineering Internship** where I can apply ful
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics (Fallback)
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rithik0711&theme=algolia&row=1&column=6&margin-w=15&margin-h=15" />
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=rithik0711&theme=algolia&row=1&column=6&margin-w=15&margin-h=15" alt="Trophies" />
+
+  <!-- Readme stats (primary) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rithik0711&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub Stats"/>
+
+  <!-- Top Languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithik0711&layout=compact&langs_count=7&hide_border=true" alt="Top Languages"/>
+
+  <!-- Contribution streak (alternative) -->
+  <img width="90%" src="https://streak-stats.demolab.com/?user=rithik0711&hide_border=true" alt="streak-stats" />
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rithik0711&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithik0711&layout=compact&langs_count=7&theme=algolia"/>
-</div>
-
-<div align="center">
-  <img width="90%" src="https://streak-stats.demolab.com/?user=rithik0711&theme=algolia&hide_border=true" />
-</div>
 
 ---
 
