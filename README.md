@@ -56,8 +56,45 @@
   </tr>
 </table>
 </div>
+<br>
+
+## 🌼 Showcase Project — *Flower Recognition App*
+
+<div align="center">
+  
+### 🌸 Flower Recognition using React.js & Teachable Machine
+
+<div style="border: 1px solid #444; padding: 20px; border-radius: 10px; width: 90%; max-width: 700px;">
+
+**Highlights:**  
+• Upload any flower image for instant classification  
+• Trained using Google Teachable Machine  
+• Predicts: Rose, Lotus, Sunflower, Hibiscus, Jasmine  
+• Displays prediction confidence percentage  
+• Fully client-side using TensorFlow.js (no backend required)  
+• Clean and responsive UI built with React + Vite  
 
 <br>
+
+**Tech Stack:**  
+React.js • Vite • TensorFlow.js • Teachable Machine • CSS
+
+<br><br>
+
+**Live Demo:**  
+🔗 <a href="https://flower-recognition-ten.vercel.app/" target="_blank">Try the Flower Recognition App</a>
+
+<br><br>
+
+**GitHub:**  
+🌸 <a href="https://github.com/rithik0711/Flower-Recognition" target="_blank">Flower Recognition Repository</a>
+
+</div>
+
+</div>
+
+<br>
+
 
 ## 🎓 Education
 
